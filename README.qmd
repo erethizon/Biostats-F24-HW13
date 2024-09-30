@@ -6,4 +6,8 @@ Instructions:
 4. Commit your changes and push them to your github repository
 5. Open a pull request to suggest that I incorporate your changes into my repository.
 
+<<<<<<< HEAD
 Alexis Parent
+=======
+Alexis Parent 
+>>>>>>> refs/remotes/origin/main
